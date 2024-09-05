@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872511881476",
+    "project_id": "medconnected-61172",
+    "storage_bucket": "medconnected-61172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872511881476:android:165f04f1502f9af8075051",
+        "android_client_info": {
+          "package_name": "com.example.medconnected"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbW1TDKMwO6J0V1VMoSSjbMdAf9FchB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
